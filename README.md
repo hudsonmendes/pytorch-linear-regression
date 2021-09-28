@@ -1,2 +1,2 @@
-# pytorch-logistic-regression
-Logistic Regression done using pure PyTorch
+# pytorch-linear-regression
+Linear Regression done using pure PyTorch
